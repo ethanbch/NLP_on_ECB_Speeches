@@ -1,0 +1,6 @@
+Variable,Coefficient,Std. Error,t-stat,p-value
+const,2.8527***,0.4343,6.568,0.0000
+Interaction_Pess_Sim,-0.1591,0.1754,-0.907,0.3658
+DELTA_MRO,-0.0000***,0.0000,-6.575,0.0000
+INFLATION,0.1049,0.1760,0.596,0.5520
+OUTPUT_GAP,-0.6299***,0.1861,-3.385,0.0009

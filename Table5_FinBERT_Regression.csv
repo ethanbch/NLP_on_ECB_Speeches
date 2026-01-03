@@ -1,0 +1,6 @@
+Variable,Coefficient,Std. Error,t-stat,p-value
+const,2.7271***,0.4816,5.662,0.0000
+Interaction_Transformer_Sim,0.1199,0.4630,0.259,0.7961
+DELTA_MRO,0.0000,0.0000,0.186,0.8529
+INFLATION,0.1939,0.1546,1.254,0.2116
+OUTPUT_GAP,-0.7145***,0.1642,-4.352,0.0000
